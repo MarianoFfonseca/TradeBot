@@ -1,8 +1,19 @@
 # TradeBot
 An algo bot by MarianoFonseca
+
 ADD A .ENV with :
 
 PRICE_PERCENT=0.2
-APIKEY=
-SECRET=
-SLEEP_TIME=5000
+
+STOP_LOSS=0.6
+//NEW DATA
+
+BUY_PERCENT=0.25
+
+SELL_PERCENT=0.50
+
+SLEEP_TIME=10000
+
+APIKEY=//
+
+SECRET=//
